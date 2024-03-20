@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "039c0e58f74cc3a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uus 2354.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -192,12 +204,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "761b8baa0267cba9",
+  "active": "039c0e58f74cc3a9",
   "lastOpenFiles": [
+    "iph 0029.md",
+    "uus 2354.md",
     "iph 0016.md",
     "uus 0007.md",
     "uus iph 0011.md",
-    "uus 2354.md",
     "2207 file.md",
     "Rähni.md",
     "Welcome.md",
