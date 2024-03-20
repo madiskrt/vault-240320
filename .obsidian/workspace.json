@@ -19,8 +19,12 @@
             "id": "1358468e6329a0a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rähni.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rähni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rähni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rähni.md"
+              }
             }
           }
         ]
@@ -163,6 +171,7 @@
   },
   "active": "1358468e6329a0a7",
   "lastOpenFiles": [
+    "zxczx.md",
     "sub-folder/2207 file.md",
     "Welcome.md",
     "uus fail 2332.md",
