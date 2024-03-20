@@ -1,2 +1,5 @@
 - [ ] Alustada koristusega
 - [ ] veel ûks
+- [ ] kolmas
+- [ ] neljas
+- [ ] siin on uued 
