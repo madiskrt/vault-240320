@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a5e0cbf822ab536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uus note 2339.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "878b86c029da7b8c",
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rähni.md",
+                "file": "uus note 2339.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rähni.md",
+                "file": "uus note 2339.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rähni.md"
+                "file": "uus note 2339.md"
               }
             }
           }
@@ -169,8 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1358468e6329a0a7",
+  "active": "8a5e0cbf822ab536",
   "lastOpenFiles": [
+    "Rähni.md",
+    "uus note 2339.md",
     "zxczx.md",
     "sub-folder/2207 file.md",
     "Welcome.md",
