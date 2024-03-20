@@ -1,0 +1,2 @@
+- [ ] Alustada koristusega
+- [ ] veel ûks
