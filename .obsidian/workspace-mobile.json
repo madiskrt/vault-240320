@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2207 file.md",
+                "file": "Rähni.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2207 file.md",
+            "file": "Rähni.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2207 file.md",
+            "file": "Rähni.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2207 file.md"
+            "file": "Rähni.md"
           }
         }
       }
@@ -146,7 +146,7 @@
   },
   "active": "89b82e5f15bc6053",
   "lastOpenFiles": [
-    "Rähni.md",
-    "2207 file.md"
+    "2207 file.md",
+    "Rähni.md"
   ]
 }
