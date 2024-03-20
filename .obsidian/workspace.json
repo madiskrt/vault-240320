@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "714ec9d5c67d3023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zxczx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "878b86c029da7b8c",
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2207 file.md",
+                "file": "zxczx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2207 file.md",
+                "file": "zxczx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2207 file.md"
+                "file": "zxczx.md"
               }
             }
           }
@@ -193,13 +205,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a71c5d0e496f5d5c",
+  "active": "714ec9d5c67d3023",
   "lastOpenFiles": [
+    "Welcome.md",
+    "uus dt 0009.md",
+    "2207 file.md",
     "Rähni.md",
     "uus fail 2332.md",
     "uus note 2339.md",
     "vcbvc.md",
-    "Welcome.md",
     "zxczx.md",
     "sub-folder/2207 file.md",
     "sub-folder/Rähni.md",
