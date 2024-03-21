@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06204b585b130ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podcasts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -228,10 +240,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b5059b5735d614d",
+  "active": "06204b585b130ecc",
   "lastOpenFiles": [
-    "iph 0029.md",
+    "Books.md",
     "Podcasts.md",
+    "iph 0029.md",
     "uus 2103@1105.md",
     "iph 0016.md",
     "Rähni.md",
