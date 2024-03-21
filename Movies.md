@@ -1,0 +1,4 @@
+- Kolya (1996 ‧ Comedy/Thriller ‧ 1h 51m) 7.7
+- My Life as a Dog (1985 ‧ Family/Comedy ‧ 1h 41m)
+- Babette's Feast (1987 ‧ Comedy/Romance ‧ 1h 42m)
+- Waking Ned (1998 ‧ Comedy/Indie film ‧ 1h 31m) 7.3
