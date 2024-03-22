@@ -98,9 +98,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c87bc244e6207122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "878b86c029da7b8c",
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zxczx.md",
+                "file": "_tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zxczx.md",
+                "file": "_tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zxczx.md"
+                "file": "_tasks.md"
               }
             }
           }
@@ -241,15 +253,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90de030cd5d09710",
+  "active": "c87bc244e6207122",
   "lastOpenFiles": [
+    "zxczx.md",
+    "_tasks.md",
     "uus dt 0009.md",
     "uus fail 2332.md",
     "uus note 2339.md",
     "uus 240322.md",
     "dt 0032.md",
     "dt 0015.md",
-    "zxczx.md",
     "Welcome.md",
     "2207 file.md",
     "Rähni.md",
