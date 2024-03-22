@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kristiina.md",
+                "file": "Filmid.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kristiina.md",
+            "file": "Filmid.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kristiina.md",
+            "file": "Filmid.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kristiina.md"
+            "file": "Filmid.md"
           }
         }
       }
@@ -230,13 +230,13 @@
   },
   "active": "b2aaf48ccdcf7327",
   "lastOpenFiles": [
+    "Kristiina.md",
     "Tervis.md",
     "Kuulamine.md",
     "Rähni.md",
     "Muu.md",
     "_todo.md",
     "Auto.md",
-    "Kristiina.md",
     "Filmid.md",
     "Raamatud.md",
     "zxczx.md",
