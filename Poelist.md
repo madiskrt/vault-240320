@@ -1,3 +1,7 @@
+- [ ] leib
 - [ ] keefir
 - [ ] kurk
+- [ ] brokkol
+- [ ] lillkapsas
 - [ ] avokaado
+- [ ] kanafilee

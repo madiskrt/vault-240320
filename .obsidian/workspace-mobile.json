@@ -8,108 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df0adadce416e8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2207 file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89b82e5f15bc6053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zxczx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d82fef6989ae7749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2207 file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc89d3bd098cd1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus 2354.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b0425bd2cdc7123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus 0007.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "761b8baa0267cba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus 2354.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "039c0e58f74cc3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus note 2339.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe82ff1a214fb82b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iph 0029.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4b5059b5735d614d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts.md",
+                "file": "Kuulamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Podcasts.md",
+                "file": "Kuulamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies.md",
+                "file": "Filmid.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poelist.md",
+                "file": "Rähni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7080f904a1fad501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuulamine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a3bd5831ab0e715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kristiina.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -218,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Poelist.md",
+            "file": "Kristiina.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -235,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Poelist.md",
+            "file": "Kristiina.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -247,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Poelist.md"
+            "file": "Kristiina.md"
           }
         }
       }
@@ -264,24 +192,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1241f3cfc84790b1",
+  "active": "3a3bd5831ab0e715",
   "lastOpenFiles": [
-    "Movies.md",
-    "Poelist.md",
-    "Podcasts.md",
-    "Books.md",
-    "iph 0029.md",
-    "uus 2103@1105.md",
-    "iph 0016.md",
+    "Kuulamine.md",
+    "Kristiina.md",
+    "Filmid.md",
+    "Raamatud.md",
+    "Auto.md",
     "Rähni.md",
+    "zxczx.md",
+    "Welcome.md",
+    "vcbvc.md",
     "uus note 2339.md",
+    "uus iph 0011.md",
+    "uus fail 2332.md",
     "uus 2354.md",
     "uus 0007.md",
-    "uus iph 0011.md",
+    "iph 0029.md",
+    "iph 0016.md",
+    "uus 2103@1105.md",
     "2207 file.md",
-    "Welcome.md",
-    "zxczx.md",
-    "vcbvc.md",
-    "uus fail 2332.md"
+    "Poelist.md"
   ]
 }
