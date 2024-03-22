@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kristiina.md",
+                "file": "Rähni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3408918dad1f8ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kristiina.md",
+            "file": "_todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kristiina.md",
+            "file": "_todo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +187,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kristiina.md"
+            "file": "_todo.md"
           }
         }
       }
@@ -192,14 +204,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a3bd5831ab0e715",
+  "active": "3408918dad1f8ccf",
   "lastOpenFiles": [
-    "Kuulamine.md",
+    "Auto.md",
+    "_todo.md",
+    "Rähni.md",
     "Kristiina.md",
+    "Kuulamine.md",
     "Filmid.md",
     "Raamatud.md",
-    "Auto.md",
-    "Rähni.md",
     "zxczx.md",
     "Welcome.md",
     "vcbvc.md",
