@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tervis.md",
+                "file": "Rähni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2aaf48ccdcf7327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kuulamine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tervis.md",
+            "file": "Kuulamine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tervis.md",
+            "file": "Kuulamine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tervis.md"
+            "file": "Kuulamine.md"
           }
         }
       }
@@ -216,12 +228,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4d01813e650040",
+  "active": "b2aaf48ccdcf7327",
   "lastOpenFiles": [
-    "_todo.md",
-    "Tervis.md",
-    "Auto.md",
     "Rähni.md",
+    "Muu.md",
+    "Tervis.md",
+    "_todo.md",
+    "Auto.md",
     "Kristiina.md",
     "Kuulamine.md",
     "Filmid.md",
