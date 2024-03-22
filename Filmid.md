@@ -1,3 +1,5 @@
+- A Summer's Tale (1996, 1h 53m) 7.6
+- A Man Called Ove (2015, 1h 56m) 7.7
 - The Diving Bell and the Butterfly (2007, 1h 52m) 8.0
 - The Kid with a Bike (2011, 1h 27m) 7.4
 - Kolya (1996 ‧ Comedy/Thriller ‧ 1h 51m) 7.7
