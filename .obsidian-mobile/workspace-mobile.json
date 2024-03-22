@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kuulamine.md",
+                "file": "Rähni10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70289a8d38266525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poelist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94999da6369c851b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kuulamine.md",
+            "file": "Rähni10.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kuulamine.md",
+            "file": "Rähni10.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kuulamine.md"
+            "file": "Rähni10.md"
           }
         }
       }
@@ -133,7 +157,12 @@
   },
   "active": "cd8df3577f83f7ef",
   "lastOpenFiles": [
+    "_todo.md",
+    "Salmistu.md",
+    "Poelist.md",
+    "_obs.md",
     "Rähni10.md",
+    "Kuulamine.md",
     "Kristiina27.md",
     "Muu.md"
   ]
