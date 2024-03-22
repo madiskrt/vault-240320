@@ -1,4 +1,0 @@
-- [ ] Veebruari arve 📅 2024-03-22 
-- [ ] Alustada keldri koristusega
-- vanadest negatiividest pildid ilmutada
-- [ ] Küttesüsteemi teema

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kristiina.md",
+                "file": "Kuulamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kristiina.md",
+            "file": "Kuulamine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kristiina.md",
+            "file": "Kuulamine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kristiina.md"
+            "file": "Kuulamine.md"
           }
         }
       }
@@ -132,5 +132,9 @@
     }
   },
   "active": "cd8df3577f83f7ef",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Rähni10.md",
+    "Kristiina27.md",
+    "Muu.md"
+  ]
 }
