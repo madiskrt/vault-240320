@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90de030cd5d09710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uus note 2339.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "878b86c029da7b8c",
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uus fail 2332.md",
+                "file": "uus note 2339.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uus fail 2332.md",
+                "file": "uus note 2339.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uus fail 2332.md"
+                "file": "uus note 2339.md"
               }
             }
           }
@@ -229,17 +241,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc41bd4b2ef72e2e",
+  "active": "90de030cd5d09710",
   "lastOpenFiles": [
+    "uus 240322.md",
+    "uus dt 0009.md",
+    "uus fail 2332.md",
     "uus note 2339.md",
     "dt 0032.md",
-    "uus dt 0009.md",
     "dt 0015.md",
     "zxczx.md",
     "Welcome.md",
     "2207 file.md",
     "Rähni.md",
-    "uus fail 2332.md",
     "vcbvc.md",
     "sub-folder/2207 file.md",
     "sub-folder/Rähni.md",
