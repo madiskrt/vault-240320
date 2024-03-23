@@ -5,3 +5,4 @@
 - [ ] lillkapsas
 - [ ] avokaado
 - [ ] kanafilee
+- [ ] salvakad
