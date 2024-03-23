@@ -1,2 +1,3 @@
+- [ ] kanad Kallastelt
 - [ ] rattad - valge ja punane
 - [ ] halupuud tuua 📅 2024-04-30
