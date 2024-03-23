@@ -1,3 +1,4 @@
+- [ ] köögi tasapinna lihvimine
 - [ ] vannitoa lae remont
 - [ ] lastetoa radiaatori leke
 - puidust riiul kööki
