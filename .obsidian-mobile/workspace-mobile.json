@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Salmistu.md",
+                "file": "poelist.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Salmistu.md",
+            "file": "poelist.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Salmistu.md",
+            "file": "poelist.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Salmistu.md"
+            "file": "poelist.md"
           }
         }
       }
@@ -157,12 +157,12 @@
   },
   "active": "cd8df3577f83f7ef",
   "lastOpenFiles": [
+    "Salmistu.md",
     "poelist.md",
     "Filmid.md",
     "Auto.md",
     "Rähni10.md",
     "_todo.md",
-    "Salmistu.md",
     "_obs.md",
     "Kuulamine.md",
     "Kristiina27.md",

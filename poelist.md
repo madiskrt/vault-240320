@@ -1,8 +1,9 @@
-- [ ] leib
-- [ ] keefir
-- [ ] kurk
-- [ ] brokkol
-- [ ] lillkapsas
+- [x] munad ✅ 2024-03-23
+- [x] leib ✅ 2024-03-23
+- [x] keefir ✅ 2024-03-23
+- [x] kurk ✅ 2024-03-23
+- [x] brokkol ✅ 2024-03-23
+- [x] lillkapsas ✅ 2024-03-23
 - [ ] avokaado
-- [ ] kanafilee
-- [ ] salvakad
+- [x] kanafilee ✅ 2024-03-23
+- [x] salvakad ✅ 2024-03-23
