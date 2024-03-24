@@ -1,3 +1,4 @@
+värske:
 - [x] kalkunisink / broilerifileesink
 - [x] munad ✅ 2024-03-23
 - [x] leib ✅ 2024-03-23
