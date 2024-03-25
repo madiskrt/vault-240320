@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "salmistu.md",
+                "file": "rähni10.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "salmistu.md",
+                "file": "rähni10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "salmistu.md",
+                "file": "rähni10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "salmistu.md"
+                "file": "rähni10.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "c87bc244e6207122",
   "lastOpenFiles": [
+    "salmistu.md",
     "tervis.md",
     "raamatud/Getting Things Done.md",
     "_obs.md",
@@ -188,7 +189,6 @@
     "raamatud.md",
     "rähni10.md",
     "Rähni.md",
-    "salmistu.md",
     "uus 240322.md",
     "uus fail 2332.md",
     "vcbvc.md",
