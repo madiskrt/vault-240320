@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "1358468e6329a0a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rähni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a71c5d0e496f5d5c",
             "type": "leaf",
             "state": {
@@ -40,31 +28,19 @@
             }
           },
           {
-            "id": "489ea45e4e14b1f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus dt 0009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c87bc244e6207122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2207 file.md",
+                "file": "kristiina27.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "878b86c029da7b8c",
@@ -144,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "kristiina27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "kristiina27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uus fail 2332.md"
+                "file": "kristiina27.md"
               }
             }
           }
@@ -203,20 +181,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24c29d061ec5ad3",
+  "active": "c87bc244e6207122",
   "lastOpenFiles": [
-    "vcbvc.md",
+    "kuulamine.md",
+    "muu.md",
+    "raamatud.md",
+    "rähni10.md",
+    "Rähni.md",
+    "salmistu.md",
+    "2207 file.md",
+    "uus 240322.md",
     "uus fail 2332.md",
+    "vcbvc.md",
     "Welcome.md",
     "zxczx.md",
     "tervis.md",
-    "salmistu.md",
-    "rähni10.md",
     "raamatud/Getting Things Done.md",
     "raamatud",
-    "raamatud.md",
-    "muu.md",
-    "kuulamine.md",
     "kristiina27.md",
     "filmid.md",
     "auto.md",
@@ -224,14 +205,11 @@
     "_poelist.md",
     "_obs.md",
     "test 240325.md",
-    "2207 file.md",
     "_tasks.md",
     "uus dt 0009.md",
     "uus note 2339.md",
-    "uus 240322.md",
     "dt 0032.md",
     "dt 0015.md",
-    "Rähni.md",
     "sub-folder"
   ]
 }
