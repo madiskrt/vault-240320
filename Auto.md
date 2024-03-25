@@ -1,2 +1,0 @@
-- [ ] pesu ja puhastus
-- [ ] esitulede vahetus (a 150€)
