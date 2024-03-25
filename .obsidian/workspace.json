@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raamatud/Getting Things Done.md",
+                "file": "salmistu.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raamatud/Getting Things Done.md",
+                "file": "salmistu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raamatud/Getting Things Done.md",
+                "file": "salmistu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raamatud/Getting Things Done.md"
+                "file": "salmistu.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   "active": "c87bc244e6207122",
   "lastOpenFiles": [
     "tervis.md",
+    "raamatud/Getting Things Done.md",
     "_obs.md",
     "_poelist.md",
     "_todo.md",
@@ -193,7 +194,6 @@
     "vcbvc.md",
     "Welcome.md",
     "zxczx.md",
-    "raamatud/Getting Things Done.md",
     "raamatud",
     "test 240325.md",
     "uus dt 0009.md",
