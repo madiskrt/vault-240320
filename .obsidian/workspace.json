@@ -21,14 +21,134 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "_poelist.md",
+=======
+                "file": "Rähni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a5e0cbf822ab536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uus fail 2332.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a71c5d0e496f5d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< Updated upstream
+                "file": "Rähni.md",
+=======
+<<<<<<< HEAD
+                "file": "2207 file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "714ec9d5c67d3023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zxczx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "489ea45e4e14b1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uus dt 0009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc41bd4b2ef72e2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uus fail 2332.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90de030cd5d09710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zxczx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c87bc244e6207122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2207 file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba1d0a716b4d2116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uus fail 2332.md",
+=======
+                "file": "Rähni.md",
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> master
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+<<<<<<< Updated upstream
+        "currentTab": 3
+=======
+<<<<<<< HEAD
+        "currentTab": 9
+=======
+        "currentTab": 3
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> master
       },
       {
         "id": "878b86c029da7b8c",
@@ -108,7 +228,19 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "_poelist.md",
+=======
+<<<<<<< Updated upstream
+                "file": "Rähni.md",
+=======
+<<<<<<< HEAD
+                "file": "uus fail 2332.md",
+=======
+                "file": "Rähni.md",
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +257,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "_poelist.md",
+=======
+<<<<<<< Updated upstream
+                "file": "Rähni.md",
+=======
+<<<<<<< HEAD
+                "file": "uus fail 2332.md",
+=======
+                "file": "Rähni.md",
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> master
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +292,19 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "_poelist.md"
+=======
+<<<<<<< Updated upstream
+                "file": "Rähni.md"
+=======
+<<<<<<< HEAD
+                "file": "uus fail 2332.md"
+=======
+                "file": "Rähni.md"
+>>>>>>> master
+>>>>>>> Stashed changes
+>>>>>>> master
               }
             }
           }
@@ -169,7 +325,28 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "c87bc244e6207122",
+=======
+<<<<<<< Updated upstream
+  "active": "a71c5d0e496f5d5c",
+=======
+<<<<<<< HEAD
+  "active": "ba1d0a716b4d2116",
+>>>>>>> Stashed changes
+  "lastOpenFiles": [
+    "vcbvc.md",
+    "uus fail 2332.md",
+    "uus note 2339.md",
+    "Rähni.md",
+    "zxczx.md",
+    "sub-folder/2207 file.md",
+<<<<<<< Updated upstream
+    "Welcome.md",
+=======
+=======
+  "active": "a71c5d0e496f5d5c",
+>>>>>>> master
   "lastOpenFiles": [
     "_todo.md",
     "auto.md",
@@ -193,11 +370,17 @@
     "uus fail 2332.md",
     "vcbvc.md",
     "Welcome.md",
+<<<<<<< HEAD
     "zxczx.md",
     "raamatud",
     "test 240325.md",
     "uus dt 0009.md",
     "uus note 2339.md",
+=======
+>>>>>>> master
+>>>>>>> Stashed changes
+    "sub-folder/Rähni.md",
+>>>>>>> master
     "sub-folder"
   ]
 }
