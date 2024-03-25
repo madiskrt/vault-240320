@@ -22,6 +22,7 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "_poelist.md",
 =======
                 "file": "Rähni.md",
@@ -130,6 +131,9 @@
 >>>>>>> master
 >>>>>>> Stashed changes
 >>>>>>> master
+=======
+                "file": "raamatud.md",
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
                 "mode": "source",
                 "source": false
               }
@@ -229,6 +233,7 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "_poelist.md",
 =======
 <<<<<<< Updated upstream
@@ -241,6 +246,9 @@
 >>>>>>> master
 >>>>>>> Stashed changes
 >>>>>>> master
+=======
+                "file": "raamatud.md",
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,6 +266,7 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "_poelist.md",
 =======
 <<<<<<< Updated upstream
@@ -270,6 +279,9 @@
 >>>>>>> master
 >>>>>>> Stashed changes
 >>>>>>> master
+=======
+                "file": "raamatud.md",
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,6 +305,7 @@
               "type": "outline",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "_poelist.md"
 =======
 <<<<<<< Updated upstream
@@ -305,6 +318,9 @@
 >>>>>>> master
 >>>>>>> Stashed changes
 >>>>>>> master
+=======
+                "file": "raamatud.md"
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
               }
             }
           }
@@ -348,6 +364,7 @@
   "active": "a71c5d0e496f5d5c",
 >>>>>>> master
   "lastOpenFiles": [
+    "_poelist.md",
     "_todo.md",
     "auto.md",
     "filmid.md",
@@ -360,7 +377,6 @@
     "tervis.md",
     "raamatud/Getting Things Done.md",
     "_obs.md",
-    "_poelist.md",
     "_tasks.md",
     "2207 file.md",
     "dt 0015.md",
