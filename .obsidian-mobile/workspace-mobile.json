@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "9a00aeba39a67a1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b78fb8aace0e14d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8df3577f83f7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_poelist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70289a8d38266525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_poelist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94999da6369c851b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70b77324eb9db534",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "93153e9214fdfcc6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0e475140d1f219d5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8e23a5a4a305f678",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5e6f6060eb702276",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c3b28f51b81633d7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ff9fb24a48bc0b00",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_poelist.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0c8e2b80fa819065",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_poelist.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4b02851f1fb7ad0e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_poelist.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd8df3577f83f7ef",
+  "lastOpenFiles": [
+    "tervis.md",
+    "_obs.md",
+    "kristiina27.md",
+    "rähni10.md",
+    "kuulamine.md",
+    "_poelist.md",
+    "salmistu.md",
+    "raamatud.md",
+    "auto.md",
+    "filmid.md",
+    "muu.md",
+    "raamatud/Getting Things Done.md",
+    "raamatud",
+    "_todo.md"
+  ]
+}
