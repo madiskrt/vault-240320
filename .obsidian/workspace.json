@@ -28,36 +28,12 @@
             }
           },
           {
-            "id": "8a5e0cbf822ab536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus fail 2332.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a71c5d0e496f5d5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2207 file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "714ec9d5c67d3023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zxczx.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,30 +52,6 @@
             }
           },
           {
-            "id": "bc41bd4b2ef72e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus fail 2332.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90de030cd5d09710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zxczx.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c87bc244e6207122",
             "type": "leaf",
             "state": {
@@ -110,21 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ba1d0a716b4d2116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "uus fail 2332.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       },
       {
         "id": "878b86c029da7b8c",
@@ -204,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uus fail 2332.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uus fail 2332.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,23 +203,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba1d0a716b4d2116",
+  "active": "e24c29d061ec5ad3",
   "lastOpenFiles": [
+    "vcbvc.md",
+    "uus fail 2332.md",
+    "Welcome.md",
+    "zxczx.md",
+    "tervis.md",
+    "salmistu.md",
+    "rähni10.md",
+    "raamatud/Getting Things Done.md",
+    "raamatud",
+    "raamatud.md",
+    "muu.md",
+    "kuulamine.md",
+    "kristiina27.md",
+    "filmid.md",
+    "auto.md",
+    "_todo.md",
+    "_poelist.md",
+    "_obs.md",
     "test 240325.md",
     "2207 file.md",
     "_tasks.md",
-    "zxczx.md",
     "uus dt 0009.md",
-    "uus fail 2332.md",
     "uus note 2339.md",
     "uus 240322.md",
     "dt 0032.md",
     "dt 0015.md",
-    "Welcome.md",
     "Rähni.md",
-    "vcbvc.md",
-    "sub-folder/2207 file.md",
-    "sub-folder/Rähni.md",
     "sub-folder"
   ]
 }
