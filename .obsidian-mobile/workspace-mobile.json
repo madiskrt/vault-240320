@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raamatud/Getting Things Done.md",
+                "file": "kuulamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "raamatud/Getting Things Done.md",
+            "file": "kuulamine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "raamatud/Getting Things Done.md",
+            "file": "kuulamine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "raamatud/Getting Things Done.md"
+            "file": "kuulamine.md"
           }
         }
       }
@@ -157,12 +157,12 @@
   },
   "active": "cd8df3577f83f7ef",
   "lastOpenFiles": [
-    "Raamatud.md",
+    "poelist.md",
+    "kuulamine.md",
     "raamatud/Getting Things Done.md",
+    "Raamatud.md",
     "raamatud",
     "Salmistu.md",
-    "poelist.md",
-    "Kuulamine.md",
     "Rähni10.md",
     "Kristiina27.md",
     "_todo.md",
