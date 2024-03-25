@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_todo.md",
+                "file": "raamatud/Getting Things Done.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_todo.md",
+                "file": "raamatud/Getting Things Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_todo.md",
+                "file": "raamatud/Getting Things Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_todo.md"
+                "file": "raamatud/Getting Things Done.md"
               }
             }
           }
@@ -171,6 +171,11 @@
   },
   "active": "c87bc244e6207122",
   "lastOpenFiles": [
+    "tervis.md",
+    "_obs.md",
+    "_poelist.md",
+    "_todo.md",
+    "_tasks.md",
     "auto.md",
     "2207 file.md",
     "filmid.md",
@@ -188,14 +193,9 @@
     "vcbvc.md",
     "Welcome.md",
     "zxczx.md",
-    "tervis.md",
     "raamatud/Getting Things Done.md",
     "raamatud",
-    "_todo.md",
-    "_poelist.md",
-    "_obs.md",
     "test 240325.md",
-    "_tasks.md",
     "uus dt 0009.md",
     "uus note 2339.md",
     "sub-folder"

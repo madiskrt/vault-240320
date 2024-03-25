@@ -1,3 +1,4 @@
+
 managing commitments, basic activities:
 - collection tool outsude your mind
 - clarify what your commitment is
