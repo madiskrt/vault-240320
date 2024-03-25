@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tervis.md",
+                "file": "kuulamine.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poelist.md",
+                "file": "_poelist.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tervis.md",
+            "file": "kuulamine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "tervis.md",
+            "file": "kuulamine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "tervis.md"
+            "file": "kuulamine.md"
           }
         }
       }
@@ -157,6 +157,9 @@
   },
   "active": "cd8df3577f83f7ef",
   "lastOpenFiles": [
+    "_poelist.md",
+    "kuulamine.md",
+    "tervis.md",
     "salmistu.md",
     "rähni10.md",
     "raamatud.md",
@@ -164,8 +167,6 @@
     "filmid.md",
     "kristiina27.md",
     "muu.md",
-    "kuulamine.md",
-    "poelist.md",
     "raamatud/Getting Things Done.md",
     "raamatud",
     "_todo.md",
