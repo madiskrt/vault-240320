@@ -16,31 +16,19 @@
             }
           },
           {
-            "id": "a71c5d0e496f5d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2207 file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c87bc244e6207122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kristiina27.md",
+                "file": "_todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "878b86c029da7b8c",
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kristiina27.md",
+                "file": "_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kristiina27.md",
+                "file": "_todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kristiina27.md"
+                "file": "_todo.md"
               }
             }
           }
@@ -183,13 +171,18 @@
   },
   "active": "c87bc244e6207122",
   "lastOpenFiles": [
+    "auto.md",
+    "2207 file.md",
+    "filmid.md",
+    "dt 0015.md",
+    "dt 0032.md",
+    "kristiina27.md",
     "kuulamine.md",
     "muu.md",
     "raamatud.md",
     "rähni10.md",
     "Rähni.md",
     "salmistu.md",
-    "2207 file.md",
     "uus 240322.md",
     "uus fail 2332.md",
     "vcbvc.md",
@@ -198,9 +191,6 @@
     "tervis.md",
     "raamatud/Getting Things Done.md",
     "raamatud",
-    "kristiina27.md",
-    "filmid.md",
-    "auto.md",
     "_todo.md",
     "_poelist.md",
     "_obs.md",
@@ -208,8 +198,6 @@
     "_tasks.md",
     "uus dt 0009.md",
     "uus note 2339.md",
-    "dt 0032.md",
-    "dt 0015.md",
     "sub-folder"
   ]
 }
