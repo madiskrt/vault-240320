@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_poelist.md",
+                "file": "raamatud.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_poelist.md",
+                "file": "raamatud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_poelist.md",
+                "file": "raamatud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_poelist.md"
+                "file": "raamatud.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   },
   "active": "c87bc244e6207122",
   "lastOpenFiles": [
+    "_poelist.md",
     "_todo.md",
     "auto.md",
     "filmid.md",
@@ -183,7 +184,6 @@
     "tervis.md",
     "raamatud/Getting Things Done.md",
     "_obs.md",
-    "_poelist.md",
     "_tasks.md",
     "2207 file.md",
     "dt 0015.md",
