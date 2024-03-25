@@ -1,4 +1,8 @@
 
+<<<<<<< HEAD
+=======
+jlkjlk
+>>>>>>> master
 - [ ] Iida puugivaktsiin
 - [ ] südame kontroll perearsti juures📅 2024-04-30
 
