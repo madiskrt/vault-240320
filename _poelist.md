@@ -1,0 +1,12 @@
+värske:
+- [x] kalkunisink / broilerifileesink
+- [x] munad ✅ 2024-03-23
+- [x] leib ✅ 2024-03-23
+- [x] barista
+- [x] keefir ✅ 2024-03-23
+- [x] kurk ✅ 2024-03-23
+- [x] brokkol ✅ 2024-03-23
+- [x] lillkapsas ✅ 2024-03-23
+- [x] avokaado
+- [ ] kanafilee ✅ 2024-03-23
+- [x] salvakad ✅ 2024-03-23
