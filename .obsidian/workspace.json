@@ -16,11 +16,15 @@
             }
           },
           {
-            "id": "1358468e6329a0a7",
+            "id": "c87bc244e6207122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "_poelist.md",
+=======
                 "file": "Rähni.md",
                 "mode": "source",
                 "source": false
@@ -126,12 +130,19 @@
                 "file": "Rähni.md",
 >>>>>>> master
 >>>>>>> Stashed changes
+>>>>>>> master
+=======
+                "file": "raamatud.md",
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
+        "currentTab": 1
+=======
 <<<<<<< Updated upstream
         "currentTab": 3
 =======
@@ -141,6 +152,7 @@
         "currentTab": 3
 >>>>>>> master
 >>>>>>> Stashed changes
+>>>>>>> master
       },
       {
         "id": "878b86c029da7b8c",
@@ -220,6 +232,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "_poelist.md",
+=======
 <<<<<<< Updated upstream
                 "file": "Rähni.md",
 =======
@@ -229,6 +245,10 @@
                 "file": "Rähni.md",
 >>>>>>> master
 >>>>>>> Stashed changes
+>>>>>>> master
+=======
+                "file": "raamatud.md",
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,6 +265,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "_poelist.md",
+=======
 <<<<<<< Updated upstream
                 "file": "Rähni.md",
 =======
@@ -254,6 +278,10 @@
                 "file": "Rähni.md",
 >>>>>>> master
 >>>>>>> Stashed changes
+>>>>>>> master
+=======
+                "file": "raamatud.md",
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,6 +304,10 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+<<<<<<< HEAD
+                "file": "_poelist.md"
+=======
 <<<<<<< Updated upstream
                 "file": "Rähni.md"
 =======
@@ -285,6 +317,10 @@
                 "file": "Rähni.md"
 >>>>>>> master
 >>>>>>> Stashed changes
+>>>>>>> master
+=======
+                "file": "raamatud.md"
+>>>>>>> 29e96ab7ed673e63b1f0344e8b227dd0fa69411c
               }
             }
           }
@@ -305,6 +341,9 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+  "active": "c87bc244e6207122",
+=======
 <<<<<<< Updated upstream
   "active": "a71c5d0e496f5d5c",
 =======
@@ -323,17 +362,41 @@
 =======
 =======
   "active": "a71c5d0e496f5d5c",
+>>>>>>> master
   "lastOpenFiles": [
-    "vcbvc.md",
-    "uus fail 2332.md",
-    "uus note 2339.md",
+    "_poelist.md",
+    "_todo.md",
+    "auto.md",
+    "filmid.md",
+    "kristiina27.md",
+    "kuulamine.md",
+    "muu.md",
+    "raamatud.md",
+    "rähni10.md",
+    "salmistu.md",
+    "tervis.md",
+    "raamatud/Getting Things Done.md",
+    "_obs.md",
+    "_tasks.md",
+    "2207 file.md",
+    "dt 0015.md",
+    "dt 0032.md",
     "Rähni.md",
-    "zxczx.md",
-    "sub-folder/2207 file.md",
+    "uus 240322.md",
+    "uus fail 2332.md",
+    "vcbvc.md",
     "Welcome.md",
+<<<<<<< HEAD
+    "zxczx.md",
+    "raamatud",
+    "test 240325.md",
+    "uus dt 0009.md",
+    "uus note 2339.md",
+=======
 >>>>>>> master
 >>>>>>> Stashed changes
     "sub-folder/Rähni.md",
+>>>>>>> master
     "sub-folder"
   ]
 }

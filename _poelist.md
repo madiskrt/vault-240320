@@ -9,4 +9,4 @@ värske:
 - [x] lillkapsas ✅ 2024-03-23
 - [x] avokaado
 - [ ] kanafilee ✅ 2024-03-23
-- [x] salvakad ✅ 2024-03-23
+- [x] salvakad ✅ 2024-03-25
